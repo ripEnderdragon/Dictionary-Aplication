@@ -8,4 +8,4 @@ word = input("Ketik kata yang tidak Kamu mengerti:") .upper()
 if word in meme_dict.keys():
     print(meme_dict[word])
 else:
-    print("Word Unrecognized")
+    print("Maaf, saat ini kami tidak memiliki kamus untuk kata ini namun kami akan terus memperluas kamus kami")
